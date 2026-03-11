@@ -37,7 +37,7 @@ Worksheets included: - 📊 Pivot Table - 📑 Scenario Summary - 🗂 Data -
 
 Below is the preview of the Excel dashboard:
 
-![Excel Dashboard](dashboard_screenshot.png)
+![Excel Dashboard](FinalProjectDashboard.png)
 
 *(Upload your dashboard screenshot in the repository and name it
 dashboard_screenshot.png)*
